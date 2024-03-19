@@ -1,6 +1,6 @@
 # Sports-Locker - A Player Locker CLI
 
-As a former rugby teacher, one of the biggest challenges was keeping track of locker  assignments for my fellow students in high school. Some of the biggest issues included:
+As a former rugby player one of the biggest challenges was keeping track of locker  assignments for my fellow students in high school. Some of the biggest issues included:
 
 * Students constantly forgetting or misplacing their locker combinations
 * Needing to get into a students' locker if they are absent to access balls.
