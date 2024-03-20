@@ -5,7 +5,7 @@ from sqlalchemy.orm import Session
 from db.models import Sport, Locker, Student  # Update import to use Sport model
 
 from subfunctions.function1 import (function1a, function1b, function1c)
-from subfunctions.function2 import (function2a, function2b)
+from subfunctions.function2 import (function2a,)
 from subfunctions.function3 import (function3a, function3b)
 from subfunctions.function4 import (function4a, function4b, function4c, function4d)
 from subfunctions.function5 import (function5a, function5b, function5c)
@@ -84,7 +84,6 @@ class Cli:
             print("Select from the following options:")
             print(" ")
             print("a: Print a list of students by grade level including a final count of students.")
-            print("b: Count the number of Sports.")
             print(" ")
             print("Press Q to exit to main menu.")
             print(" ")
