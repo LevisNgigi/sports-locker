@@ -30,7 +30,7 @@ def create_records():
     lockers = [Locker(
         number = fake.unique.random_int(min=1, max=150),
         combination = f'{fake.random_int(min=0, max=39)}-{fake.random_int(min=0, max=39)}-{fake.random_int(min=0, max=39)}',
-        sport_id = fake.random_int(min=1, max=80)
+        student_id = fake.random_int(min=1, max=80)
     ) for i in range(150)]
 
     # sports
