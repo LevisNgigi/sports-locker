@@ -40,7 +40,7 @@ python seed.py
 CD back to the lib folder, then run the following command:
 
 ```python
-./bando.py
+python3 sports-locker.py
 ```
 
 You can now access and interact with the data from the database through the CLI.
