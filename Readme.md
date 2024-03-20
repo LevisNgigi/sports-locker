@@ -1,4 +1,4 @@
-# Sports-Locker - A Player Locker CLI
+# Sports-Locker - A Student Locker CLI
 
 As a former rugby player one of the biggest challenges was keeping track of locker  assignments for my fellow students in high school. Some of the biggest issues included:
 
