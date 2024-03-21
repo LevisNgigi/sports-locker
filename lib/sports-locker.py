@@ -90,8 +90,6 @@ class Cli:
             search_option = input("Selection: ")
             if search_option == "a":
                 function2a(session, search_option)
-            elif search_option == "b":
-                function2b(session, search_option)
             elif search_option == "Q":
                 break
             else:
