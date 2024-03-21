@@ -111,7 +111,7 @@ def print_student_sports(session, last_name):
             if student_sports:
                 print(f"This student has the following sport(s) assigned: ")
                 print(" ")
-                sports = [sport.type for sport in student_sports]
+                sports = [sport.name for sport in student_sports]
                 df = (pandas.DataFrame(sports, columns=["Sport"]))
                 print(df.to_string(index=False))
             else:
